@@ -1,1 +1,1 @@
-{"name":"JEE Command Centre","short_name":"JEE Centre","start_url":"./","display":"standalone","background_color":"#081326","theme_color":"#0b1730","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{"name":"JEE Command Centre","short_name":"JEE Centre","start_url":"./","display":"standalone","background_color":"#0f1217","theme_color":"#101318","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
